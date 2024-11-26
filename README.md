@@ -103,13 +103,13 @@ Se calcularon estadísticas descriptivas (promedio, desviación estándar, etc.)
 
 ### 3. **Prueba de Hipótesis (Mann-Whitney U Test)**
 
-Se aplicó una prueba de **Mann-Whitney U** para comparar las reservas de vuelos entre los grupos de educación baja y alta (`low_education` vs `high_education`), con el objetivo de determinar si hay una diferencia estadísticamente significativa en el número de vuelos reservados.
+Se aplicó una prueba de **Mann-Whitney U** para comparar las reservas de vuelos entre los grupos de educación universitaria y no universitaria (`university` vs `non_university`), con el objetivo de determinar si hay una diferencia estadísticamente significativa en el número de vuelos reservados por cada grupo.
 
 ## Conclusiones
 
 - **Distribución de vuelos**: Se observó que los vuelos reservados tienen una distribución variable a lo largo del año, con picos en ciertos meses.
 - **Relación entre distancia y puntos**: Se encontró una relación positiva entre la distancia volada y los puntos acumulados.
-- **Diferencias entre grupos educativos**: La prueba de Mann-Whitney indicó si existe una diferencia significativa en el número de vuelos reservados entre los grupos de educación baja y alta.
+- **Diferencias entre grupos educativos**: La prueba de Mann-Whitney U indicó si existe una diferencia significativa entre el número de vuelos reservados por los grupos de univeritarios y no universitarios.
 
 ## Herramientas y Librerías Utilizadas
 
