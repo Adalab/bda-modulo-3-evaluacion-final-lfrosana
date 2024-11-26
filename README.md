@@ -9,6 +9,7 @@ El objetivo principal de este análisis es explorar los datos de los clientes, r
 El análisis se realizó utilizando dos archivos de datos:
 
 ### 1. **Customer Flight Analysis.csv**
+
 Este archivo contiene información sobre la actividad de vuelos de los clientes, incluyendo:
 
 - **Loyalty Number**: Identificador único para cada cliente.
@@ -23,6 +24,7 @@ Este archivo contiene información sobre la actividad de vuelos de los clientes,
 - **Dollar Cost Points Redeemed**: Valor en dólares de los puntos redimidos.
 
 ### 2. **Customer Loyalty History.csv**
+
 Este archivo proporciona información detallada sobre el perfil de los clientes, incluyendo:
 
 - **Loyalty Number**: Identificador único para cada cliente.
