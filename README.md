@@ -109,7 +109,7 @@ Se aplicó una prueba de **Mann-Whitney U** para comparar las reservas de vuelos
 
 - **Distribución de vuelos**: Se observó que los vuelos reservados tienen una distribución variable a lo largo del año, con picos en ciertos meses.
 - **Relación entre distancia y puntos**: Se encontró una relación positiva entre la distancia volada y los puntos acumulados.
-- **Diferencias entre grupos educativos**: La prueba de Mann-Whitney U indicó si existe una diferencia significativa entre el número de vuelos reservados por los grupos de univeritarios y no universitarios.
+- **Diferencias entre grupos educativos**: La prueba de Mann-Whitney U indicó que sí existe una diferencia significativa entre el número de vuelos reservados por el grupo de univeritarios y el de no universitarios.
 
 ## Herramientas y Librerías Utilizadas
 
